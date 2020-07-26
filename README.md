@@ -90,6 +90,12 @@ https://zeddios.tistory.com 정리.
 
 - [OperationQueue 실험](https://zeddios.tistory.com/512)
 
+### Metal
+- [Metal](https://zeddios.tistory.com/932)
+- [Metal Tutorial](https://zeddios.tistory.com/1044)
+
+- [Custom Core Image Filter](https://zeddios.tistory.com/1046)
+
 
 ### UIBezierPath
 - [UIBezierPath (1)](https://zeddios.tistory.com/814)
