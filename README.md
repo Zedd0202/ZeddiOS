@@ -128,7 +128,7 @@ https://zeddios.tistory.com 정리.
 - [Red-Black Tree](https://zeddios.tistory.com/237)
 
 # File
-- [Apple의 Sandbox정책과 Files앱](https:(//zeddios.tistory.com/432)
+- [Apple의 Sandbox정책과 Files앱](https://zeddios.tistory.com/432)
 - [App의 데이터 보기](https://zeddios.tistory.com/437)
 - [FileManager 사용하면서 알아두면 좋을 것들](https://zeddios.tistory.com/441)
 - [FileManager를 이용해 파일/폴더 만드는 법](https://zeddios.tistory.com/440)
