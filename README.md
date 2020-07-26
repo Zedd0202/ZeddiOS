@@ -3,8 +3,7 @@ https://zeddios.tistory.com 정리.
 # [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 - [Feedback](https://zeddios.tistory.com/725)
 - [Gesture](https://zeddios.tistory.com/346)
-- [Sign in with Apple (1)](https://zeddios.tistory.com/955)
-- [Sign in with Apple (2) - Creating a Custom Sign in with Apple Button](https://zeddios.tistory.com/973)
+- [Sign in with Apple (1) - Creating a Custom Sign in with Apple Button](https://zeddios.tistory.com/973)
 
 - [Status Bars](https://zeddios.tistory.com/569)
 
