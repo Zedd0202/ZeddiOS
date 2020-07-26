@@ -31,6 +31,7 @@ https://zeddios.tistory.com 정리.
 - [ContiguousArray / ArraySlice](https://zeddios.tistory.com/600)
 - [Array 사용해보기 (1)](https://zeddios.tistory.com/114)
 - [Array 사용해보기 (2)](https://zeddios.tistory.com/116)
+- [Swift Sorting Algorithm](https://zeddios.tistory.com/648)
 
 ### Codable
 - [Codable(Decodable & Encodable)](https://zeddios.tistory.com/373)
@@ -72,6 +73,8 @@ https://zeddios.tistory.com 정리.
 - [Gesture Recognizer - Screen Edge Pan](https://zeddios.tistory.com/357)
 - [Gesture Recognizer - Pinch](https://zeddios.tistory.com/343)
 - [ScrollView에서 위아래 Gesture를 감지하고싶다면? / UIGestureRecognizerDelegate](https://zeddios.tistory.com/360)
+
+- [touchesBegan VS Tap Gesture Recognizer](https://zeddios.tistory.com/112)
 
 ### OperationQueue
 - [Concurrency Programming Guide - Operation Queues](https://zeddios.tistory.com/510)
