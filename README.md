@@ -28,9 +28,13 @@ https://zeddios.tistory.com 정리.
 
 ### Array
 - [The Swift Array Design](https://zeddios.tistory.com/599)
+
 - [ContiguousArray / ArraySlice](https://zeddios.tistory.com/600)
+
 - [Array 사용해보기 (1)](https://zeddios.tistory.com/114)
+
 - [Array 사용해보기 (2)](https://zeddios.tistory.com/116)
+
 - [Swift Sorting Algorithm](https://zeddios.tistory.com/648)
 
 ### Codable
