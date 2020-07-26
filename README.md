@@ -9,6 +9,10 @@ https://zeddios.tistory.com 정리.
 
 # Swift
 
+### API Design Guidelines
+- [API Design Guidelines](https://zeddios.tistory.com/401)
+
+
 ### Release
 - [Swift 5.2 Released!](https://zeddios.tistory.com/985)
 - [Swift 5.1 Released!](https://zeddios.tistory.com/771)
@@ -25,7 +29,15 @@ https://zeddios.tistory.com 정리.
 ### Array
 - [The Swift Array Design](https://zeddios.tistory.com/599)
 - [ContiguousArray / ArraySlice](https://zeddios.tistory.com/600)
+- [Array 사용해보기 (1)](https://zeddios.tistory.com/114)
+- [Array 사용해보기 (2)](https://zeddios.tistory.com/116)
 
+### Codable
+- [Codable(Decodable & Encodable)](https://zeddios.tistory.com/373)
+- [Decodable](https://zeddios.tistory.com/577)
+- [CodingKey](https://zeddios.tistory.com/394)
+- [Key decoding strategy](https://zeddios.tistory.com/497)
+- [DateDecoding(Encoding)Strategy](https://zeddios.tistory.com/397)
 
 # iOS
 
@@ -45,15 +57,11 @@ https://zeddios.tistory.com 정리.
 - [Core Data (1)](https://zeddios.tistory.com/987)
 - [Core Data (2)](https://zeddios.tistory.com/989)
 
-### UIBezierPath
-- [UIBezierPath (1)](https://zeddios.tistory.com/814)
-- [UIBezierPath (2) - Attribute](https://zeddios.tistory.com/821)
-- [UIBezierPath (3) - Triangle, Circle](https://zeddios.tistory.com/822)
-- [UIBezierPath (4) - Pie Chart](https://zeddios.tistory.com/823)
-- [UIBezierPath (5) - CAShapeLayer](https://zeddios.tistory.com/824)
-- [UIBezierPath (6) - Curve](https://zeddios.tistory.com/846)
-- [UIBezierPath (7) - SVG to UIBezierPath](https://zeddios.tistory.com/857)
-- [UIBezierPath (8) - Line Graph](https://zeddios.tistory.com/848)
+### GCD
+- [Concurrency Programming Guide - Dispatch Queues](https://zeddios.tistory.com/513)
+- [Dispatch Queue](https://zeddios.tistory.com/516)
+- [DispatchWorkItem, DispatchGroup](https://zeddios.tistory.com/520)
+- [Prioritize Work with Quality of Service Classes](https://zeddios.tistory.com/521)
 
 ### Gesture Recognizer
 - [Human Interface Guidelines > Gestures](https://zeddios.tistory.com/346)
@@ -64,6 +72,21 @@ https://zeddios.tistory.com 정리.
 - [Gesture Recognizer - Screen Edge Pan](https://zeddios.tistory.com/357)
 - [Gesture Recognizer - Pinch](https://zeddios.tistory.com/343)
 - [ScrollView에서 위아래 Gesture를 감지하고싶다면? / UIGestureRecognizerDelegate](https://zeddios.tistory.com/360)
+
+### OperationQueue
+- [Concurrency Programming Guide - Operation Queues](https://zeddios.tistory.com/510)
+- [OperationQueue 실험](https://zeddios.tistory.com/512)
+
+
+### UIBezierPath
+- [UIBezierPath (1)](https://zeddios.tistory.com/814)
+- [UIBezierPath (2) - Attribute](https://zeddios.tistory.com/821)
+- [UIBezierPath (3) - Triangle, Circle](https://zeddios.tistory.com/822)
+- [UIBezierPath (4) - Pie Chart](https://zeddios.tistory.com/823)
+- [UIBezierPath (5) - CAShapeLayer](https://zeddios.tistory.com/824)
+- [UIBezierPath (6) - Curve](https://zeddios.tistory.com/846)
+- [UIBezierPath (7) - SVG to UIBezierPath](https://zeddios.tistory.com/857)
+- [UIBezierPath (8) - Line Graph](https://zeddios.tistory.com/848)
 
 
 # SwiftUI
