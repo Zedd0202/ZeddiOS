@@ -11,15 +11,15 @@ https://zeddios.tistory.com 정리.
 
 # iOS
 
-## 14+
+### 14+
 - [Date / UIColorPickerViewController](https://zeddios.tistory.com/1066)
 - [PHPicker](https://zeddios.tistory.com/1052)
 
-## Core Data
+### Core Data
 - [Core Data (1)](https://zeddios.tistory.com/987)
 - [Core Data (2)](https://zeddios.tistory.com/989)
 
-## UIBezierPath
+### UIBezierPath
 - [UIBezierPath (1)](https://zeddios.tistory.com/814)
 - [UIBezierPath (2) - Attribute](https://zeddios.tistory.com/821)
 - [UIBezierPath (3) - Triangle, Circle](https://zeddios.tistory.com/822)
@@ -39,7 +39,7 @@ https://zeddios.tistory.com 정리.
 
 
 # Combine
-## Combine Protocols
+### Protocols
 - [Combine (1) - Publisher, Subscriber](https://zeddios.tistory.com/925)
 - [Combine (1-1) - Subcribers.Demand](https://zeddios.tistory.com/966)
 - [Combine (2) - Subject](https://zeddios.tistory.com/965)
@@ -48,7 +48,7 @@ https://zeddios.tistory.com 정리.
 - [Combine (5) - ConnectablePublisher](https://zeddios.tistory.com/1009)
 - [Combine (6) - multicast , share](https://zeddios.tistory.com/1011)
 
-## Combine Operators
+### Operators
 - [Combine Operator (1) - Mapping Elements](https://zeddios.tistory.com/1031)
 - [Combine Operator (2) - Filtering Elements](https://zeddios.tistory.com/1035)
 - [Combine Operator (3) - Reducing Elements](https://zeddios.tistory.com/1039)
