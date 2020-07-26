@@ -1,7 +1,15 @@
 # ZeddiOS
 https://zeddios.tistory.com 정리. 
+# [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+- [Feedback](https://zeddios.tistory.com/725)
+- [Gesture](https://zeddios.tistory.com/346)
+- [Sign in with Apple (1)](https://zeddios.tistory.com/955)
+- [Sign in with Apple (2) - Creating a Custom Sign in with Apple Button](https://zeddios.tistory.com/973)
+- [Status Bars](https://zeddios.tistory.com/569)
 
 # Swift
+
+### Release
 - [Swift 5.2 Released!](https://zeddios.tistory.com/985)
 - [Swift 5.1 Released!](https://zeddios.tistory.com/771)
 - [Swift 5.0 Released!](https://zeddios.tistory.com/717), [Swift 5.0 변경사항](https://zeddios.tistory.com/680)
@@ -9,11 +17,29 @@ https://zeddios.tistory.com 정리.
 - [Swift 4.1 Released! (1)](https://zeddios.tistory.com/495)
 - [Swift 4.1 Released! (2)](https://zeddios.tistory.com/496)
 
+### Performance
+- [Understanding Swift Performance (1)](https://zeddios.tistory.com/596)
+- [Understanding Swift Performance (2)](https://zeddios.tistory.com/597)
+- [Understanding Swift Performance (3)](https://zeddios.tistory.com/598)
+
+### Array
+- [The Swift Array Design](https://zeddios.tistory.com/599)
+- [ContiguousArray / ArraySlice](https://zeddios.tistory.com/600)
+
+
 # iOS
 
 ### 14+
 - [Date / UIColorPickerViewController](https://zeddios.tistory.com/1066)
 - [PHPicker](https://zeddios.tistory.com/1052)
+
+### PhotoKit
+- [PhotoKit (1)](https://zeddios.tistory.com/614)
+- [PhotoKit (2) - fetching image](https://zeddios.tistory.com/620)
+- [PHImageManager/PHCachingImageManager](https://zeddios.tistory.com/626)
+- [iOS+14 ) PHPicker](https://zeddios.tistory.com/1052)
+- [PHContentEditingInput](https://zeddios.tistory.com/1015)
+- [CIFilter](https://zeddios.tistory.com/1019)
 
 ### Core Data
 - [Core Data (1)](https://zeddios.tistory.com/987)
@@ -28,6 +54,17 @@ https://zeddios.tistory.com 정리.
 - [UIBezierPath (6) - Curve](https://zeddios.tistory.com/846)
 - [UIBezierPath (7) - SVG to UIBezierPath](https://zeddios.tistory.com/857)
 - [UIBezierPath (8) - Line Graph](https://zeddios.tistory.com/848)
+
+### Gesture Recognizer
+- [Human Interface Guidelines > Gestures](https://zeddios.tistory.com/346)
+- [Gesture Recognizer - Rotation](https://zeddios.tistory.com/344)
+- [Gesture Recognizer - Swipe](https://zeddios.tistory.com/345)
+- [Gesture Recognizer - Pan](https://zeddios.tistory.com/356)
+- [Gesture Recognizer - Long Press](https://zeddios.tistory.com/378)
+- [Gesture Recognizer - Screen Edge Pan](https://zeddios.tistory.com/357)
+- [Gesture Recognizer - Pinch](https://zeddios.tistory.com/343)
+- [ScrollView에서 위아래 Gesture를 감지하고싶다면? / UIGestureRecognizerDelegate](https://zeddios.tistory.com/360)
+
 
 # SwiftUI
 - [SwiftUI View Lifcycle](https://zeddios.tistory.com/936)
@@ -80,8 +117,23 @@ https://zeddios.tistory.com 정리.
 
 # Algorithm - NP Hardness
  
-- [P와 NP의 개념]
-- [NP-Hard, NP-Complete]
-- [TSP는 NP-Complete]
-- [NP-Hard의 잘못된 정의]
-- [Undirected Hamiltonian Cycle은 NP-Complete이다.]
+- [P와 NP의 개념](https://zeddios.tistory.com/92)
+- [NP-Hard, NP-Complete](https://zeddios.tistory.com/93)
+- [TSP는 NP-Complete](https://zeddios.tistory.com/176)
+- [NP-Hard의 잘못된 정의](https://zeddios.tistory.com/178)
+- [Undirected Hamiltonian Cycle은 NP-Complete이다.](https://zeddios.tistory.com/179)
+
+# Algorithm - Tree
+- [Binary Search Tree - 삭제](https://zeddios.tistory.com/492)
+- [Red-Black Tree](https://zeddios.tistory.com/237)
+
+# File
+- [Apple의 Sandbox정책과 Files앱](https:(//zeddios.tistory.com/432)
+- [App의 데이터 보기](https://zeddios.tistory.com/437)
+- [FileManager 사용하면서 알아두면 좋을 것들](https://zeddios.tistory.com/441)
+- [FileManager를 이용해 파일/폴더 만드는 법](https://zeddios.tistory.com/440)
+
+# Localizing
+- [Localizing Your App (1)](https://zeddios.tistory.com/368)
+- [Localizing Your App (2) - Info.plist](https://zeddios.tistory.com/369)
+- [NSLocalizedString with variables](https://zeddios.tistory.com/744)
