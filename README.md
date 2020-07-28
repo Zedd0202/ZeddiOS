@@ -48,8 +48,9 @@ https://zeddios.tistory.com 정리.
 
 ### 14+
 - [Date / UIColorPickerViewController](https://zeddios.tistory.com/1066)
-
 - [PHPicker](https://zeddios.tistory.com/1052)
+
+- [Widget](https://zeddios.tistory.com/1077)
 
 ### PhotoKit
 - [PhotoKit (1)](https://zeddios.tistory.com/614)
