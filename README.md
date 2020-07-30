@@ -137,6 +137,7 @@ https://zeddios.tistory.com 정리.
 - [Combine Operator (4) - Applying Mathematical Operations on Elements](https://zeddios.tistory.com/1042)
 - [Combine Operator (5) - Applying Sequence Operations to Elements](https://zeddios.tistory.com/1073)
 - [Combine Operator (6) - Applying Matching Criteria to Elements](https://zeddios.tistory.com/1076)
+
 - [Combine Operator (7) - Selecting Specific Elements](https://zeddios.tistory.com/1084)
 
 
