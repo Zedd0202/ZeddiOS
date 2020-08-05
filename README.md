@@ -52,6 +52,10 @@ https://zeddios.tistory.com 정리.
 
 - [Widget](https://zeddios.tistory.com/1077)
 
+### Widget 
+- [Widget](https://zeddios.tistory.com/1077)
+- [Widget (1) - Widget Protocol / WidgetConfiguration / EntryView](https://zeddios.tistory.com/1088)
+
 ### PhotoKit
 - [PhotoKit (1)](https://zeddios.tistory.com/614)
 - [PhotoKit (2) - fetching image](https://zeddios.tistory.com/620)
