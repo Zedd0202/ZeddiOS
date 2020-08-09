@@ -54,8 +54,8 @@ https://zeddios.tistory.com 정리.
 
 ### Widget 
 - [Widget](https://zeddios.tistory.com/1077)
-- [Widget (1) - Widget Protocol / WidgetConfiguration / EntryView](https://zeddios.tistory.com/1088)
-- [Widget (2) - TimelineEntry / TimelineProvider / TimelineReloadPolicy](https://zeddios.tistory.com/1089)
+- [WidgetKit (1) - Widget Protocol / WidgetConfiguration / EntryView](https://zeddios.tistory.com/1088)
+- [WidgetKit (2) - TimelineEntry / TimelineProvider / TimelineReloadPolicy](https://zeddios.tistory.com/1089)
 
 - [WidgetKit - TimelineProviderContext](https://zeddios.tistory.com/1091)
 
