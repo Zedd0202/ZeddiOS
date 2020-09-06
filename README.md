@@ -119,7 +119,7 @@ https://zeddios.tistory.com 정리.
 # SwiftUI
 - [SwiftUI View Lifcycle](https://zeddios.tistory.com/936)
 - [UIHostingController, UIViewControllerRepresentable, UIViewRepresentable](https://zeddios.tistory.com/763)
-- [ListStyle 종류](https://zeddios.tistory.com/933)
+- [ListStyle 종류](https://zeddios.tistory.com/1111)
 - [Sign in with Apple in SwiftUI](https://zeddios.tistory.com/955)
 - [@State, @ObservedObject, @EnvironmentObject](https://zeddios.tistory.com/964)
 
