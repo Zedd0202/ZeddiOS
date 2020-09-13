@@ -7,7 +7,7 @@ https://zeddios.tistory.com 정리.
 
 - [Status Bars](https://zeddios.tistory.com/569)
 
-# Swift
+# [Swift](https://zeddios.tistory.com/category/Swift)
 
 ### API Design Guidelines
 - [API Design Guidelines](https://zeddios.tistory.com/401)
@@ -116,7 +116,7 @@ https://zeddios.tistory.com 정리.
 - [UIBezierPath (8) - Line Graph](https://zeddios.tistory.com/848)
 
 
-# SwiftUI
+# [SwiftUI](https://zeddios.tistory.com/category/SwiftUI)
 - [SwiftUI View Lifcycle](https://zeddios.tistory.com/936)
 - [UIHostingController, UIViewControllerRepresentable, UIViewRepresentable](https://zeddios.tistory.com/763)
 - [ListStyle 종류](https://zeddios.tistory.com/1111)
@@ -126,7 +126,7 @@ https://zeddios.tistory.com 정리.
 - [NavigationView](https://zeddios.tistory.com/986)
 
 
-# Combine
+# [Combine](https://zeddios.tistory.com/category/Combine)
 ### Protocols
 - [Combine (1) - Publisher, Subscriber](https://zeddios.tistory.com/925)
 - [Combine (1-1) - Subcribers.Demand](https://zeddios.tistory.com/966)
