@@ -44,7 +44,7 @@ https://zeddios.tistory.com 정리.
 
 - [DateDecoding(Encoding)Strategy](https://zeddios.tistory.com/397)
 
-# iOS
+# [iOS](https://zeddios.tistory.com/category/iOS)
 
 ### 14+
 - [Date / UIColorPickerViewController](https://zeddios.tistory.com/1066)
