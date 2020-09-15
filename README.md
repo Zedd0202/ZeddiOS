@@ -51,8 +51,10 @@ https://zeddios.tistory.com 정리.
 - [PHPicker](https://zeddios.tistory.com/1052)
 - [Widget](https://zeddios.tistory.com/1077)
 - [UIAction closure based UIControl](https://zeddios.tistory.com/1093?category=682195)
-
 - [UIMenu on UIButton](https://zeddios.tistory.com/1098?category=682195)
+
+- [UILabel - lineBreakStrategy 실험👀](https://zeddios.tistory.com/1100)
+
 
 ### Widget 
 - [Widget](https://zeddios.tistory.com/1077)
