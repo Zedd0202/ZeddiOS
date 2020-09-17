@@ -14,6 +14,7 @@ https://zeddios.tistory.com 정리.
 
 
 ### Release
+- [Swift 5.3 Released!](https://zeddios.tistory.com/1122)
 - [Swift 5.2 Released!](https://zeddios.tistory.com/985)
 - [Swift 5.1 Released!](https://zeddios.tistory.com/771)
 - [Swift 5.0 Released!](https://zeddios.tistory.com/717), [Swift 5.0 변경사항](https://zeddios.tistory.com/680)
