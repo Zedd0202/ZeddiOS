@@ -53,9 +53,10 @@ https://zeddios.tistory.com 정리.
 - [Widget](https://zeddios.tistory.com/1077)
 - [UIAction closure based UIControl](https://zeddios.tistory.com/1093?category=682195)
 - [UIMenu on UIButton](https://zeddios.tistory.com/1098?category=682195)
-
 - [UILabel - lineBreakStrategy 실험👀](https://zeddios.tistory.com/1100)
+- [lineBreakStrategy 실험 (ParagraphStyle과 같이 사용했을 때 한글 word wrap이 안되는 문제)](https://zeddios.tistory.com/1162)
 
+- [UIPageControl 좌우 패딩](https://zeddios.tistory.com/1160)
 
 ### Widget 
 - [Widget](https://zeddios.tistory.com/1077)
@@ -159,8 +160,9 @@ https://zeddios.tistory.com 정리.
 - [Combine Operator (5) - Applying Sequence Operations to Elements](https://zeddios.tistory.com/1073)
 - [Combine Operator (6) - Applying Matching Criteria to Elements](https://zeddios.tistory.com/1076)
 - [Combine Operator (7) - Selecting Specific Elements](https://zeddios.tistory.com/1084)
-
 - [Combine Operator (8) - Combining Elements from Multiple Publishers](https://zeddios.tistory.com/1085)
+
+- [Combine Operator (9) - Handling Errors](https://zeddios.tistory.com/1113)
 
 
 # Swift Package Manager
