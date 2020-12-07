@@ -109,6 +109,11 @@ https://zeddios.tistory.com 정리.
 
 - [Custom Core Image Filter](https://zeddios.tistory.com/1046)
 
+# Test
+- [Code Coverage](https://zeddios.tistory.com/1141)
+
+- [Snapshot Testing](https://zeddios.tistory.com/1165)
+
 ### UITest
 - [UITest란?](https://zeddios.tistory.com/1061)
 - [Recording UI Test](https://zeddios.tistory.com/1062)
