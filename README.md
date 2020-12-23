@@ -113,6 +113,7 @@ https://zeddios.tistory.com 정리.
 - [Code Coverage](https://zeddios.tistory.com/1141)
 
 - [Snapshot Testing](https://zeddios.tistory.com/1165)
+- [RxTest](https://zeddios.tistory.com/996)
 
 ### UITest
 - [UITest란?](https://zeddios.tistory.com/1061)
@@ -146,7 +147,7 @@ https://zeddios.tistory.com 정리.
 - [Button을 View의 일부로 넣었는데 View를 탭할때마다 Button의 Action이 불린다면](https://zeddios.tistory.com/1112)
 - [Form / Group / GroupBox / Section](https://zeddios.tistory.com/1178)
 - [OutlineGroup / DisclosureGroup](https://zeddios.tistory.com/1179)
-- [SwiftUI ) App / Scene / View](https://zeddios.tistory.com/1182)
+- [App / Scene / View](https://zeddios.tistory.com/1182)
 
 
 # [Combine](https://zeddios.tistory.com/category/Combine)
