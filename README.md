@@ -180,7 +180,7 @@ https://zeddios.tistory.com 정리.
 - [Swift Package Manager(SPM)과 Build Configuration](https://zeddios.tistory.com/992)
 > Xcode 11.3부터 Custom Build Configuration 지원.
 
-# Git
+# Git/Github
 - [MAC사용자를 위한 Git 사용가이드](https://zeddios.tistory.com/4)
 - [내 저장소에 있는 모든 파일들을 통째로 다른 repository로 옮기고 싶을 때!](https://zeddios.tistory.com/5)
 - [git README.md에 그림넣기](https://zeddios.tistory.com/34)
@@ -188,6 +188,9 @@ https://zeddios.tistory.com 정리.
 - [Permission denied (publickey).](https://zeddios.tistory.com/120)
 
 - [git repository에서 폴더가 클릭이 안될 때 (폴더가 회색일 때)](https://zeddios.tistory.com/151)
+- [Github Projects 사용해보기 (1)](https://zeddios.tistory.com/1194)
+- [Github Projects 사용해보기 (2)](https://zeddios.tistory.com/1195)
+
 
 # Algorithm - Sort
 - [정렬 알고리즘 정리1 - 개념 / 시간복잡도 - O(n^2)](https://zeddios.tistory.com/20)
