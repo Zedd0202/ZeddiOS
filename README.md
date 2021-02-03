@@ -13,7 +13,7 @@ https://zeddios.tistory.com 정리.
 - [API Design Guidelines](https://zeddios.tistory.com/401)
 
 
-### Release
+### Release - Swift
 - [Swift 5.3 Released!](https://zeddios.tistory.com/1122)
 - [Swift 5.2 Released!](https://zeddios.tistory.com/985)
 - [Swift 5.1 Released!](https://zeddios.tistory.com/771)
@@ -22,6 +22,13 @@ https://zeddios.tistory.com 정리.
 - [Swift 4.1 Released! (1)](https://zeddios.tistory.com/495)
 
 - [Swift 4.1 Released! (2)](https://zeddios.tistory.com/496)
+
+### Release - Xcode
+- [Xcode 12.5 Beta Release Notes](https://zeddios.tistory.com/1208)
+- [Xcode 11.4 Beta Release Notes](https://zeddios.tistory.com/953)
+
+- [Xcode 11 Beta Release Notes](https://zeddios.tistory.com/755)
+
 
 ### Performance
 - [Understanding Swift Performance (1)](https://zeddios.tistory.com/596)
