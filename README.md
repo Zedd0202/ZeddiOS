@@ -62,8 +62,10 @@ https://zeddios.tistory.com 정리.
 - [UIMenu on UIButton](https://zeddios.tistory.com/1098?category=682195)
 - [UILabel - lineBreakStrategy 실험👀](https://zeddios.tistory.com/1100)
 - [lineBreakStrategy 실험 (ParagraphStyle과 같이 사용했을 때 한글 word wrap이 안되는 문제)](https://zeddios.tistory.com/1162)
-
 - [UIPageControl 좌우 패딩](https://zeddios.tistory.com/1160)
+- [Modern Cell Configuration (1)](https://zeddios.tistory.com/1205)
+
+- [Modern Cell Configuration (2)](https://zeddios.tistory.com/1206)
 
 ### Widget 
 - [Widget](https://zeddios.tistory.com/1077)
