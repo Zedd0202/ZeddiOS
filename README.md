@@ -250,6 +250,14 @@ https://zeddios.tistory.com 정리.
 - [StatefulWidget 자세히 살펴보기](https://zeddios.tistory.com/1115?category=886318)
 - [Custom Font 적용하는 법](https://zeddios.tistory.com/1172)
 
+# Fastlane
+- [Fastlane (1) - Setup 및 Test](https://zeddios.tistory.com/837)
+- [Fastlane (2) - Test결과를 Slack으로 보내기](https://zeddios.tistory.com/839)
+- [Fastlane (3) - Screenshots](https://zeddios.tistory.com/840)
+- [Fastlane (4) - Upload Screenshots to the App Store](https://zeddios.tistory.com/844)
+
+- [Fastlane (5) - App Store distribution](https://zeddios.tistory.com/1212)
+
 # 회고
 - [2018년 회고와 2019년 다짐](https://zeddios.tistory.com/652)
 - [2019년 회고와 2020년 다짐](https://zeddios.tistory.com/928)
