@@ -9,11 +9,10 @@ https://zeddios.tistory.com 정리.
 
 # [Swift](https://zeddios.tistory.com/category/Swift)
 
-### API Design Guidelines
-- [API Design Guidelines](https://zeddios.tistory.com/401)
-
 - [ARC / Strong Reference Cycle 해결 방법(weak, unowned)](https://zeddios.tistory.com/1213)
 
+### API Design Guidelines
+- [API Design Guidelines](https://zeddios.tistory.com/401)
 
 ### Release - Swift
 - [Swift 5.3 Released!](https://zeddios.tistory.com/1122)
