@@ -11,6 +11,8 @@ https://zeddios.tistory.com 정리.
 
 - [ARC / Strong Reference Cycle 해결 방법(weak, unowned)](https://zeddios.tistory.com/1213)
 
+- [Unowned Optional References](https://zeddios.tistory.com/1214)
+
 ### API Design Guidelines
 - [API Design Guidelines](https://zeddios.tistory.com/401)
 
